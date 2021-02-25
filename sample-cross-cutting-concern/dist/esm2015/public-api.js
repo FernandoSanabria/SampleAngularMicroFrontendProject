@@ -1,0 +1,5 @@
+/*
+ * Public API Surface of cross-cutting-concern
+ */
+export * from './lib/message-bus/index';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uL3Byb2plY3RzL2Nyb3NzLWN1dHRpbmctY29uY2Vybi9zcmMvcHVibGljLWFwaS50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTs7R0FFRztBQUVILGNBQWMseUJBQXlCLENBQUMiLCJzb3VyY2VzQ29udGVudCI6WyIvKlxuICogUHVibGljIEFQSSBTdXJmYWNlIG9mIGNyb3NzLWN1dHRpbmctY29uY2VyblxuICovXG5cbmV4cG9ydCAqIGZyb20gJy4vbGliL21lc3NhZ2UtYnVzL2luZGV4JztcbiJdfQ==

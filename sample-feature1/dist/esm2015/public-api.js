@@ -1,0 +1,5 @@
+/*
+ * Public API Surface of sample-feature1
+ */
+export * from './lib/index';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uL3Byb2plY3RzL3NhbXBsZS1mZWF0dXJlMS9zcmMvcHVibGljLWFwaS50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTs7R0FFRztBQUVILGNBQWMsYUFBYSxDQUFDIiwic291cmNlc0NvbnRlbnQiOlsiLypcbiAqIFB1YmxpYyBBUEkgU3VyZmFjZSBvZiBzYW1wbGUtZmVhdHVyZTFcbiAqL1xuXG5leHBvcnQgKiBmcm9tICcuL2xpYi9pbmRleCc7XG4iXX0=

@@ -1,0 +1,1 @@
+{"version":3,"file":"message-bus.module.d.ts","sourceRoot":"","sources":["../../../projects/cross-cutting-concern/src/lib/message-bus/message-bus.module.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,mBAAmB,EAAY,MAAM,eAAe,CAAC;;AAK9D,qBAGa,gBAAgB;IAC3B,MAAM,CAAC,OAAO,IAAI,mBAAmB,CAAC,gBAAgB,CAAC;0CAD5C,gBAAgB;kCAAhB,gBAAgB;CAY5B"}
